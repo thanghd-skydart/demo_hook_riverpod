@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macan/Documents/project_demo/flutter_demo_hook/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/macan/Documents/project_demo/demo_hook_riverpod/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/macan/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-nl/values-nl.xml",

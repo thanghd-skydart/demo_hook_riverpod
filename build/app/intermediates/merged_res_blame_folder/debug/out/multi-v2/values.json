@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macan/Documents/project_demo/flutter_demo_hook/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/macan/Documents/project_demo/demo_hook_riverpod/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/macan/Documents/project_demo/flutter_demo_hook/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/macan/Documents/project_demo/demo_hook_riverpod/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
